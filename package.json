@@ -13,7 +13,8 @@
     "heroku-postbuild": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ernesto Valecillos",
+  "homepage": "https://github.com/evalecillos/book-search-engine",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^6.5.1"
