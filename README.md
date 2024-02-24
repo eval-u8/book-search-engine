@@ -16,9 +16,10 @@ The book search engine is a full MERN website, built with MongoDB, Express.JS, R
 You can create an account in which you can store your favorite books after you've performed a basic search for them.
 
 ## Preview 👀
-[Live site](https://agile-plains-92114.herokuapp.com/)
+
+[Live site](https://book-search-engine2929.netlify.app/)
 ![Site preview](assets/images/preview.png)
 
-
 ## License 📓
+
 [MIT](https://choosealicense.com/licenses/mit/)
